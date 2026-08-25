@@ -1,0 +1,14 @@
+let studentName="meghana";
+var age=22;
+let mark=25;
+console.log(studentName);
+console.log(age);
+console.log(mark);
+var name=prompt("enter your name:");
+alert("your name is "+ name);
+var age=prompt("enter your age");
+console.log(age);
+let answer=confirm("are you a student");
+console.log(answer);
+var name=prompt("enter your name");
+document.writeln(name);
