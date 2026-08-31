@@ -36,7 +36,7 @@ let city = "Chennai";
 5. Write the syntax to create a variable using const.
 */
 
-const country = "India";
+const hero = "Ram";
 
 
 /*
@@ -474,7 +474,7 @@ console.log()
 
 /*
 alert()
-Displays a message in a popup box.
+Displays a message in a popup box while refreshing the document.
 */
 
 alert("Hello");
@@ -491,7 +491,6 @@ console.log(userName);
 
 /*
 confirm()
-Displays OK and Cancel buttons.
 Returns true for OK and false for Cancel.
 */
 
@@ -501,7 +500,7 @@ console.log(result);
 
 /*
 document.writeln()
-Writes content directly to the HTML document.
+Writes content directly to the  document.
 */
 
 document.writeln("Hello World");
