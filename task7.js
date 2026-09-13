@@ -1,5 +1,5 @@
 //Task 1
-/*
+
 let apiLink="https://fakestoreapi.com/products"
 fetch(apiLink).then((data)=>{
    
@@ -194,7 +194,7 @@ fetch(apiLink1)
 
     console.log("Dashboard completed")
 
-})*/
+})
 
 
 //Task 3 — User & Post API
